@@ -29,9 +29,6 @@ public class MainActivity extends AppCompatActivity {
     Button searchButton;
     EditText userInput;
 
-    //http://api.openweathermap.org/data/2.5/weather?q=osijek&appid=0c07d03df7e1cdeaa8b11564237accc1
-
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -52,7 +49,7 @@ public class MainActivity extends AppCompatActivity {
                 {
                     encodedCityName = URLEncoder.encode(userInput.getText().toString(), "UTF-8");
 
-                    String url="http://api.openweathermap.org/data/2.5/weather?q=" + encodedCityName + "&appid=0c07d03df7e1cdeaa8b11564237accc1";
+                    String url="http://api.openweathermap.org/data/2.5/weather?q=" + encodedCityName + "&appid=ADD YOUR OWN API";
                     Intent intent=new Intent(MainActivity.this, DataActivity.class);
                     intent.putExtra("URL", url);
                     startActivity(intent);
