@@ -1,0 +1,9 @@
+
+_squid:UselessImportCheck"4Remove this unused import 'android.widget.EditText'.(†Å›Ú8êŒ¶ß÷-
+:squid:S16437"Use a StringBuilder instead.(¶şÅ¬8ÍÕ£ß÷-
+fsquid:UselessImportCheck";Remove this unused import 'java.net.MalformedURLException'.(ªËŞˆ8·Õ„ë÷-
+`squid:UselessImportCheck"0Remove this unused import 'java.io.IOException'.(ªº»Úıÿÿÿÿ8»·„ë÷-
+Fsquid:S1148C"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ÍÕ£ß÷-
+Fsquid:S1148c"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8©¯”ë÷-
+csquid:UselessImportCheck"3Remove this unused import 'org.json.JSONException'.(¹Ó·úÿÿÿÿ8©¯”ë÷-
+]squid:UselessImportCheck"-Remove this unused import 'android.util.Log'.(Ô¦Ø²øÿÿÿÿ8ªôƒë÷-

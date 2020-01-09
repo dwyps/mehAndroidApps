@@ -1,0 +1,15 @@
+
+asquid:UselessImportCheck"6Remove this unused import 'java.io.InputStreamReader'.(ãˆÎÉ8ùé´Åø-
+dsquid:S2147Œ"ECombine this catch with the one at line 136, which has the same body.(òİÉò8ê÷£Øø-
+lsquid:S2095{"IUse try-with-resources or close this "InputStream" in a "finally" clause.(Ó´¶ûøÿÿÿÿ8ê÷£Øø-
+bsquid:UselessImportCheck"7Remove this unused import 'java.net.HttpURLConnection'.(¬¬˜­8ùé´Åø-
+fsquid:UselessImportCheck";Remove this unused import 'java.net.MalformedURLException'.(ªËŞˆ8ïµÅø-
+osquid:CommentedOutCodeLine¯"<This block of commented-out lines of code should be removed.(õÇúÿÿÿÿ8ê÷£Øø-
+`squid:UselessImportCheck"0Remove this unused import 'java.io.IOException'.(ªº»Úıÿÿÿÿ8ïµÅø-
+Gsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ê÷£Øø-
+Fsquid:S1148L"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ê÷£Øø-
+dsquid:S1192X"FDefine a constant instead of duplicating this literal "title" 3 times.(Í÷ƒ8ê÷£Øø-
+jsquid:CommentedOutCodeLine±"<This block of commented-out lines of code should be removed.(·³šá8ê÷£Øø-
+esquid:MaximumInheritanceDepth"<This class has 6 parents which is greater than 5 authorized.(²Ú±
+Gsquid:S1148Š"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ê÷£Øø-
+jsquid:UselessImportCheck":Remove this unused import 'java.util.concurrent.Executor'.(÷ı¶Œúÿÿÿÿ8Ú±«×ø-

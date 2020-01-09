@@ -1,0 +1,28 @@
+
+]squid:UselessImportCheck
+"-Remove this unused import 'android.util.Log'.(Ô¦Ø²øÿÿÿÿ8İâ»Ûø-
+:squid:S1643d"Use a StringBuilder instead.(¶şÅ¬8Òˆİø-
+csquid:S2147r"ECombine this catch with the one at line 108, which has the same body.(”ı¾8Òˆİø-
+Gsquid:S1148Ñ"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ŞæÆİø-
+Xsquid:UselessImportCheck".Remove this unused import 'java.util.HashSet'.(Ê‚êX8Í¸İø-
+^squid:UselessImportCheck"3Remove this unused import 'java.io.BufferedReader'.(€é²Å8âÿïÚø-
+lsquid:MaximumInheritanceDepth#"<This class has 6 parents which is greater than 5 authorized.(²Ú±8Òˆİø-
+]squid:UselessImportCheck"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8Í¸İø-
+[squid:UselessImportCheck"0Remove this unused import 'android.media.Image'.(ëïøÂ8‡ÎÜÛø-
+Fsquid:S1148p"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Òˆİø-
+Fsquid:S1148m"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Òˆİø-
+dsquid:S2147Ğ"ECombine this catch with the one at line 206, which has the same body.(ä ¹€8¸„Îİø-
+€squid:S1488C"]Immediately return this expression instead of assigning it to the temporary variable "image".(ªÀèìüÿÿÿÿ8Òˆİø-
+Fsquid:S1148s"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Òˆİø-
+Gsquid:S1148Ï"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8¸„Îİø-
+bsquid:S2147J"DCombine this catch with the one at line 71, which has the same body.(ï­£Ä8Òˆİø-
+esquid:S2142Ğ"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8¸„Îİø-
+]"squid:SwitchLastCaseIsDefaultCheckŞ""Add a default case to this switch.(§ñÀøÿÿÿÿ8à…Şø-
+isquid:CommentedOutCodeLineh"<This block of commented-out lines of code should be removed.(œ˜Í€8Òˆİø-
+_squid:UselessImportCheck"4Remove this unused import 'java.lang.reflect.Array'.(‡¡É˜8ƒ‘ŸÛø-
+\
+squid:S106‚"9Replace this use of System.out or System.err by a logger.(ú£û¿ÿÿÿÿÿ8Òˆİø-
+Fsquid:S1148I"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Òˆİø-
+asquid:UselessImportCheck"1Remove this unused import 'java.util.Collection'.(¹ÉĞšùÿÿÿÿ8÷Ìüİø-
+csquid:S2147o"ECombine this catch with the one at line 108, which has the same body.(ï­£Ä8Òˆİø-
+Fsquid:S1148K"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Òˆİø-
